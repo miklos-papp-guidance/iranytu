@@ -1,4 +1,4 @@
-# Vezetői iránytűm
+# Vezetői iránytű
 
 ## 1. Küldetésem
 - Olyan környezetet teremtek, ahol a velem dolgozók folyamatosan fejlődnek szakmailag és gondolkodásban.
